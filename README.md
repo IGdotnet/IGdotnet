@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Atualmente cursando o 5º semestre no curso de ADS na Fatec Bragança Paulista
+Estudante de ADS
 
 Aqui você vai ver um pouco sobre meus estudos
