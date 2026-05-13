@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, eu sou o Igor
 
 <!--
 **IGdotnet/IGdotnet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Atualmente cursando o 5º semestre no curso de ADS na Fatec Bragança Paulista
+
+Aqui você vai ver um pouco sobre meus estudos
